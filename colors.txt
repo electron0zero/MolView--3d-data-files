@@ -1,0 +1,6 @@
+Element Color/Matarial-Color in 3D files of Molecules 
+-------------------
+Hydrogen(H) - white (FFFFFF)
+Carbon(C) - grey (E5E5E5)
+Oxygen(O) - red (FF4242)
+Nitrogen(N) - blue (C6C6FF)
