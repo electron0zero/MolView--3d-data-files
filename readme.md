@@ -33,3 +33,6 @@ These can be edited using blender
 These files are exported from blend files(using blender obviously)
 
 Can be used/Viewed in Windows 10 Model View(3D View) Application
+
+## License
+The content of this project is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US)
